@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdrsnchrls
 - 👀 I’m interested in software development, game engineering and cybersecurity
-- 💞️ I’m a Jedi Master at Liferay
+- 💞️ I’m a Senior Consultant at Liferay
 - 📫 Contact me
 
 <!---
