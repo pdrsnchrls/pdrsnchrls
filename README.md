@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pdrsnchrls
 - 👀 I’m interested in software development, game engineering and cybersecurity
-- 🌱 I’m currently learning Java and Unity with C#
-- 💞️ I’m interning at Liferay inc.
+- 💞️ I’m a Jedi Master at Liferay
 - 📫 Contact me
 
 <!---
